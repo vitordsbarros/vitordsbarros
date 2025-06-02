@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA_Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Esse é um estudo de site!">
+    <title>Aprendendo DOM</title>
+    <style>
+        body {
+            background-color: #121235;
+            color: #ffffff;
+        }
+        h1 {
+            color: #fdfd1e
+        }
+        strong {
+            color: #fdfd1e;
+        }
+    </style>
+</head>
+<body>
+    <h1>Iniciando com o DOM</h1>
+    <p>Aqui vai o resultado!</p>
+    <P>Aprendendo <strong>DOM</strong> em JavaScript</P>
+    <div class="msg">Clique aqui</div>
+    <script>
+        var corpo = window.document.body
+        var p1 = window.document.getElementsByTagName('p')[1]
+        /*
+        var d = window.document.getElementById('msg')
+        d.style.background = "green"
+        d.innerText = 'Aguardando...'
+        */
+       var d = window.document.querySelector('div.msg') // Versão mais recente.
+       d.style.background = 'blue'
+    </script>
+</body>
+</html>
+
+<!-- [0] significa que irá navegar pelas tags, o zero é considerado 1.
+ innerText é o texto dentro do paragrafo-->

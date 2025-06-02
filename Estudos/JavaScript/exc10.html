@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Imigração EUA</title>
+</head>
+<body>
+
+    <h1>Verificador de Nacionalidade</h1>
+    País residente: <input type="text" id="txtp">
+    <input type="button" value="Buscar" onclick="buscando()">
+    <div id="res"></div>
+
+    <script>
+        function buscando() {
+            var txtp = window.document.querySelector('#txtp')
+            var res = window.document.querySelector('#res')
+            var pais = txtp.value.trim().toLowerCase()
+            var paisFormatado = pais.charAt(0).toUpperCase() + pais.slice(1)
+
+            res.innerHTML = `Você nasceu em ${paisFormatado}.<br>`
+
+            if (pais === 'estados unidos' || pais === 'eua') {
+                res.innerHTML += 'Bem-Vindo de volta cidadão americano!'
+            } else if (pais === ' ') {
+                res.innerHTML = 'Por favor, informe seu país!'
+            } else {
+                res.innerHTML += 'Você é estrangeiro. Aproveite sua estadia!'
+            }
+        }
+    </script>
+</body>
+</html>
