@@ -4,7 +4,7 @@ Olá me chamo **Vitor** — sou estudante de Ciência da Computação, e estou i
 
 ## O que estou fazendo agora:
 
-- Estudando **Python** e migrando para **JavaScript**
+- Migrando de **Python** para **JavaScript**
 - Seguindo para Full-Stack com foco temporário em FrontEnd
 - Sem estudos de BackEnd no momento
 - Programando no **VSCode** com sangue nos olhos
