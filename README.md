@@ -11,6 +11,3 @@ Oi! Eu sou Vitor, fascinado por tecnologia e desenvolvimento Fullstack. Estou cu
 ![](https://github-readme-stats.vercel.app/api?username=vitordsbarros&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=vitordsbarros&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vitordsbarros&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 💰 Apoie meu trabalho:
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/vitordsbarros) 
