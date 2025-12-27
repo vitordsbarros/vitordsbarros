@@ -12,6 +12,3 @@ Atuo na área de tecnologia com foco em desenvolvimento e compreensão de sistem
 ![](https://github-readme-stats.vercel.app/api?username=vitordsbarros&theme=date_night&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=vitordsbarros&theme=date_night&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vitordsbarros&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-  ## 💰 Contribuição
-  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/vitordsbarros) 
