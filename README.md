@@ -48,10 +48,10 @@ Tenho interesse especial em arquitetura de sistemas, desenvolvimento de APIs e d
 
 <div align="center">
 
-  | ![](https://github-readme-stats.shion.dev/api?username=vitordsbarros&theme=dark&hide_border=false&include_all_commits=true&count_private=true) | ![](https://streak-stats.demolab.com/?user=vitordsbarros&theme=dark&hide_border=false&include_all_commits=true&count_private=true) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vitordsbarros&theme=dark&&utcOffset=8) |
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vitordsbarros&theme=dark&hide) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vitordsbarros&theme=dark&hide) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vitordsbarros&theme=dark&utcOffset=8) |
   | :-: | :-: | :-: |
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitordsbarros&theme=dark&hide) | ![](https://github-readme-stats.shion.dev/api/top-langs/?username=vitordsbarros&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitordsbarros&theme=dark&hide) | ![](https://github-readme-streak-stats.herokuapp.com?user=vitordsbarros&theme=dark&hide_border=true) |
   | :-: | :-: |
 
 </div>
